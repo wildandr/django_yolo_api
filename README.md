@@ -1,1 +1,1 @@
-# django_yolo_api
+bismillah jadi
